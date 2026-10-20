@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287240648507",
+    "project_id": "studynote-5d3f6",
+    "storage_bucket": "studynote-5d3f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287240648507:android:5de191d7cf7ce639cb691e",
+        "android_client_info": {
+          "package_name": "com.example.studynotefinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAeh6UW7j4HoF-ZP82m3hvfqPs0SHuZVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
