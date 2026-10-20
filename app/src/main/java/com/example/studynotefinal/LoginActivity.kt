@@ -30,7 +30,7 @@ class LoginActivity : BaseActivity() {
                     finish() // Back-stack: Back on the list won't return to Login
                 }
                 .addOnFailureListener {
-                    Toast.makeText(this, "Login failed", Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this, "Login failed: ${it.message}", Toast.LENGTH_LONG).show()
                 }
         }
     }
